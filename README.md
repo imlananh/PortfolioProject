@@ -1,5 +1,6 @@
 # 🦠 COVID-19 Data Exploration and Visualization Project
-## This project explores global COVID-19 data using SQL and visualizes key insights with Tableau. The dataset was sourced from Kaggle and includes two CSV files:
+## This project explores global COVID-19 data using SQL and visualizes key insights with Tableau. 
+### The dataset was sourced from Kaggle and includes two CSV files:
 - CovidDeaths.csv
 - CovidVaccinations.csv
 
